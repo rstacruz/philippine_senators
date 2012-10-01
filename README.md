@@ -1,33 +1,6 @@
 Senators of the 15th congress of the Philippines
 ================================================
 
-This is a document that outlines the public contact info of the senators of the
-Philippines today. It's here to encourage us citizens to contact our senators so
-they can get support, feedback and comments from the public.
-
-I try to list their official online presences, their physical offices, and any
-affiliations (usually organizations they've founded) they may have.
-
-This list is manually maintained by me--please contribute any corrections or
-additions.
-
-Tips:
-
-* When sending emails, make sure to send it to all the listed email addresses
-for each senator. You can't be sure which ones are active and which ones aren't.
-
-* Refrain from sending hate mail and other forms of personal attacks. You will
-not be helping. Consider making constructive criticism instead.
-
-* If you get bounced emails or wrong numbers, leave a comment on the issue
-tracker so I can update this list.
-
-* If a senator here has no Facebook page linked, it probably means that any
-Facebook pages you'll find associated with them are fake/unofficial.
-
-* Try to contact them in more than one medium. Facebook posts alone will not be
-very effective; try to at least send snail mail to their senate office addresses.
-
 Ed Angara
 ---------
 
@@ -549,3 +522,34 @@ Info:
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/villar_bio.asp
 * Wiki page: https://en.wikipedia.org/wiki/Manny_Villar
 
+About this document
+-------------------
+
+This is a document that outlines the public contact info of the senators of the
+Philippines today. It's here to encourage us citizens to contact our senators so
+they can get support, feedback and comments from the public.
+
+I try to list their official online presences, their physical offices, and any
+affiliations (usually organizations they've founded) they may have.
+
+This list is manually maintained by me--please contribute any corrections or
+additions.
+
+Tips:
+
+* When sending emails, make sure to send it to all the listed email addresses
+for each senator. You can't be sure which ones are active and which ones aren't.
+
+* Refrain from sending hate mail and other forms of personal attacks. You will
+not be helping. Consider making constructive criticism instead.
+
+* If you get bounced emails or wrong numbers, leave a comment on the [issue
+tracker] so I can update this list.
+
+* If a senator here has no Facebook page linked, it probably means that any
+Facebook pages you'll find associated with them are fake/unofficial.
+
+* Try to contact them in more than one medium. Facebook posts alone will not be
+very effective; try to at least send snail mail to their senate office addresses.
+
+[issue tracker]: https://github.com/rstacruz/philippine_senators/issues
