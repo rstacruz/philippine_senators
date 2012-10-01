@@ -164,6 +164,8 @@ Online:
 * Email: sen.escudero@gmail.com
 * Email: reachus@chizescudero.com
 * Website: http://www.chizescudero.com
+* Facebook: https://www.facebook.com/senchizescudero
+* Facebook: https://www.facebook.com/Francis.Escudero (?)
 
 Senate office:
 
