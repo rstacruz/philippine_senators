@@ -565,8 +565,8 @@ you raise are relevant to their constituents.
 * When you call:
 
   - Say your name, where you're from, and what you're calling about. For
-  example: *ako po si Rico Sta Cruz mula sa Makati city. Tumatawag po ako 
-  tungkol sa isyu ng _____.*.
+  example: *"ako po si Rico Sta Cruz mula sa Makati city. Tumatawag po ako 
+  tungkol sa isyu ng _____."*
 
   - Try to ask the staffer about the senator's stance on the issue you're 
   calling about.
