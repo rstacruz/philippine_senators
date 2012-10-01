@@ -540,8 +540,9 @@ additions.
 * When sending emails, make sure to send it to all the listed email addresses
 for each senator. You can't be sure which ones are active and which ones aren't.
 
-* Refrain from sending hate mail and other forms of personal attacks. You will
-not be helping. Consider making constructive criticism instead.
+* Refrain from sending hate mail and other forms of personal attacks. These will
+not help. Consider making constructive criticism instead, and communicating why
+the issue is important to you.
 
 * If you get bounced emails or wrong numbers, leave a comment on the [issue
 tracker] so I can update this list.
@@ -550,6 +551,17 @@ tracker] so I can update this list.
 Facebook pages you'll find associated with them are fake/unofficial.
 
 * Try to contact them in more than one medium. Facebook posts alone will not be
-very effective; try to at least send snail mail to their senate office addresses.
+very effective; try to at least send snail mail to their senate office
+addresses. A face-to-face meeting (if you can manage it!) will have a better
+potential than a letter; a letter, more than a phone call; a phone call, more
+than an e-mail or FB/Twitter post.
+
+* Encourage your friends to send letters, as well. The more people send in their
+concerns, the more you can convince senators (and their staff) that the issues
+you raise are relevant to their constituents.
+
+* Direct lines are usually better than trunk lines.
+
+* When you call, follow up with an email.
 
 [issue tracker]: https://github.com/rstacruz/philippine_senators/issues
