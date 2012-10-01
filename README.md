@@ -4,21 +4,21 @@ Senators of the 15th congress of the Philippines
 Ed Angara
 ---------
 
-Online:
+#### Online:
 
 * Website: http://edangara.com/
 * Facebook: https://www.facebook.com/edangara2
 * Twitter: https://twitter.com/edangara
 * Email: edgardo_angara@hotmail.com
 
-Senate office:
+#### Senate office:
 
 * Address: Rm. 504 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 70 loc. 5571 / 5593
 * Direct Lines: (632) 552-6779
 * Telefax: (632) 552-6852
 
-Info:
+#### Info:
 
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/angara_bio.asp
 * Wiki page: http://en.wikipedia.org/wiki/Edgardo_Angara
@@ -26,18 +26,18 @@ Info:
 Joker Arroyo
 ------------
 
-Online:
+#### Online:
 
 * Email: office_sen_jokerarroyo@yahoo.com
 
-Senate office:
+#### Senate office:
 
 * Address: Rm 511 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 70 loc. 5567-68
 * Direct Lines: (632) 552-6730 / (632) 812-1323
 * Fax: (632) 552-6790
 
-Info:
+#### Info:
 
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/arroyo_bio.asp
 * Wiki page: http://en.wikipedia.org/wiki/Joker_Arroyo
@@ -45,18 +45,18 @@ Info:
 Allan Peter Cayetano (Minority Leader)
 --------------------------------------
 
-Online:
+#### Online:
 
 * Email: alancayetano@yahoo.com
 * Facebook: https://www.facebook.com/apcayetano (??)
 
-Senate Office:
+#### Senate Office:
 
 * Address: Rm. 601 6th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 70 loc. 5518 / 5520
 * Fax: (632) 832-5281
 
-Info:
+#### Info:
 
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/cayetano_alanpeter_resume.asp
 * Wiki page: https://en.wikipedia.org/wiki/Allan_Peter_Cayetano
@@ -66,21 +66,21 @@ Info:
 Pia Cayetano
 ------------
 
-Online:
+#### Online:
 
 * Email: pia@senatorpiacayetano.com
 * Website: http://www.senatorpiacayetano.com
 * Website: http://www.mydailyrace.com
 * Facebook: https://www.facebook.com/pages/Pia-Cayetano/175169705842790
 
-Senate office:
+#### Senate office:
 
 * Address: Rm. 505 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 70 loc. 5556 / 5557 / 5588
 * Direct Lines: (632) 552-6683 / (632) 552-9003
 * Fax: (632) 552-6684
 
-Info:
+#### Info:
 
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/pcayetano_bio.asp
 * Wiki page: http://en.wikipedia.org/wiki/Pia_Cayetano
@@ -88,20 +88,20 @@ Info:
 Franklin Drilon
 ---------------
 
-Online:
+#### Online:
 
 * Email: fmdrilon@yahoo.com
 * Website: http://frankahan.com
 * Facebook: https://www.facebook.com/frankdrilon (??)
 
-Senate office:
+#### Senate office:
 
 * Address: Rm. 525 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 99 loc. 8592 / 8594 - 95
 * Direct Lines: (632) 659-5841 / (632) 659-7479
 * Telefax No.: (632) 659-5581
 
-Info:
+#### Info:
 
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/drilon_resume.asp
 * Wiki page: http://en.wikipedia.org/wiki/Franklin_Drilon
@@ -110,21 +110,21 @@ Info:
 Jinggoy Estrada (Senate President Pro-Tempore)
 ----------------------------------------------
 
-Online:
+#### Online:
 
 * Email: senjinggoyestrada@senate.gov.ph
 * Email: jinggoy@senjinggoyestrada.com
 * Website: http://www.senjinggoyestrada.com
 * Website contact form: http://www.senjinggoyestrada.com/index.php/pages/contact.html
 
-Senate Office:
+#### Senate Office:
 
 * Address: Rm. 602 6th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 70 loc. 2521 - 24
 * Direct Lines: (632) 552-6684-85 / 552-6774
 * Telefax: (632) 552-6685
 
-Info:
+#### Info:
 
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/jestrada_bio.asp
 * Wiki page: https://en.wikipedia.org/wiki/Jinggoy_Estrada
@@ -132,7 +132,7 @@ Info:
 Chiz Escudero
 -------------
 
-Online:
+#### Online:
 
 * Email: sen.escudero@gmail.com
 * Email: reachus@chizescudero.com
@@ -140,18 +140,18 @@ Online:
 * Facebook: https://www.facebook.com/senchizescudero
 * Facebook: https://www.facebook.com/Francis.Escudero (?)
 
-Senate office:
+#### Senate office:
 
 * Address: Rm. 517 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 80 loc. 6537 / 6539 / 6540 / 6541
 * Direct Lines: (632) 833-5034 / (632) 833-8765
 
-Info:
+#### Info:
 
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/escudero_francisjoseph_bio1.asp
 * Wiki page: http://en.wikipedia.org/wiki/Francis_Escudero
 
-Senate Committee on Justice and Human Rights:
+#### Senate Committee on Justice and Human Rights:
 
 * www.senatejusticehumanrights.com
 * Address: Rm. 304 Committee A, Senate of the Philippines, GSIS Compound, Pasay City
@@ -161,7 +161,7 @@ Senate Committee on Justice and Human Rights:
 TG Guingona
 -----------
 
-Online:
+#### Online:
 
 * Email: senatorguingona@gmail.com
 * Email: stgmedia@tgguingona.ph
@@ -169,14 +169,14 @@ Online:
 * Facebook: https://www.facebook.com/TgGuingona
 * Twitter: http://twitter.com/tgguingona
 
-Senate office:
+#### Senate office:
 
 * Address: Rm. 502 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 99 loc. 8560 - 63
 * Direct Lines: (632) 986-2001 / (632) 986-8940 / (632) 986-5774
 * Telefax: (632) 8326768
 
-Info:
+#### Info:
 
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/guingona_tg_bio.asp
 * Wiki page: http://en.wikipedia.org/wiki/Teofisto_Guingona_III
@@ -184,19 +184,19 @@ Info:
 Gringo Honasan
 --------------
 
-Online:
+#### Online:
 
 * Email: gringobhonasan@gmail.com
 * Website: http://www.gringohonasan.ph
 * Facebook: https://www.facebook.com/Gringo.Honasan
 
-Senate office:
+#### Senate office:
 
 * Address: Rm. 507 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 70 loc. 5533 /5580
 * Telefax: (632) 551-0525
 
-Info:
+#### Info:
 
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/honasan_gregorio_bio.asp
 * Wiki page: http://en.wikipedia.org/wiki/Gregorio_Honasan
@@ -204,20 +204,20 @@ Info:
 Ping Lacson
 -----------
 
-Online:
+#### Online:
 
 * Email: ospml@yahoo.com
 * Website: http://www.pinglacson.com.ph (NOT WORKING)
 * Website: http://www.pinglacson.net (NOT WORKING)
 
-Senate office:
+#### Senate office:
 
 * Address: Rm. 510 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 70 loc. 5534 / 5585
 * Direct Line: (632) 552-6786
 * Fax: (632) 834-6590
 
-Info:
+#### Info:
 
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/lacson_bio.asp
 * Wiki page: http://en.wikipedia.org/wiki/Panfilo_Lacson
@@ -225,19 +225,19 @@ Info:
 Lito Lapid
 ----------
 
-Online:
+#### Online:
 
 * Email: sen.litolapid@senate.gov.ph
 * Email: sujo408@yahoo.com
 
-Senate office:
+#### Senate office:
 
 * Address: Rm. 516 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunkline: (632) 552-6601 to 70  loc. 5536 / 5574 - 75
 * Direct Line: (632) 552-6694 / (632) 832-7949
 * Telefax: (632) 552-6695
 
-Info:
+#### Info:
 
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/lapid_bio.asp
 * Wiki page: http://en.wikipedia.org/wiki/Lito_Lapid
@@ -245,7 +245,7 @@ Info:
 Loren Legarda
 -------------
 
-Online:
+#### Online:
 
 * Email: loren@lorenlegarda.com.ph
 * Website: http://www.lorenlegarda.com.ph
@@ -253,7 +253,7 @@ Online:
 * Facebook: https://www.facebook.com/senatorlorenlegarda
 * Youtube: http://www.youtube.com/user/senatorlorenlegarda
 
-Senate office:
+#### Senate office:
 
 * Address: Rm. 209 2nd Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 70 loc. 5537 / 5538 / 5539
@@ -270,7 +270,7 @@ Philippine Youth Climate Movement (organization):
 * Facebook: https://www.facebook.com/pages/Philippine-Youth-Climate-Movement/260621544536
 * Website: http://philycm.wordpress.com/
 
-Info:
+#### Info:
 
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/legarda_loren_bio.asp
 * Wiki page: http://en.wikipedia.org/wiki/Loren_Legarda
@@ -278,7 +278,7 @@ Info:
 Bongbong Marcos
 ---------------
 
-Online:
+#### Online:
 
 * Email: inquiry.bbmoffice@gmail.com
 * Website: http://www.bongbongm.com
@@ -286,29 +286,29 @@ Online:
 * Twitter: https://twitter.com/bongbongmarcos
 * Youtube: http://www.youtube.com/user/asikasongbongbong
 
-Senate office:
+#### Senate office:
 
 * Address: Rm. 518 5th flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 99 loc. 8570-73
 * Telefax: (632) 659-5045
 
-Info:
+#### Info:
 
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/bmarcos_bio.asp
 
 Serge Osmena III
 ----------------
 
-Online:
+#### Online:
 
 * Email: osmena111@yahoo.com
 
-Senate office:
+#### Senate office:
 
 * Trunk Lines: (632) 552-6601 to 99 loc. 8525-26
 * Address: Rm. 527 5th flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 
-Info:
+#### Info:
 
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/osmena_bio.asp
 * Wiki page: http://en.wikipedia.org/wiki/Sergio_Osme%C3%B1a_III
@@ -316,7 +316,7 @@ Info:
 Kiko Pangilinan
 ---------------
 
-Online:
+#### Online:
 
 * Email: kilosko2004@yahoo.com
 * Email: kiko.pangilinan@gmail.com
@@ -326,14 +326,14 @@ Online:
 * Twitter: https://twitter.com/kikopangilinan
 * YouTube: http://www.youtube.com/francispangilinan
 
-Senate office:
+#### Senate office:
 
 * Address: Rm. 502 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 70 loc. 6512 / 6514 / 6518 / 2344
 * Direct Lines: (632) 552-6732
 * Fax No.: (632) 552-6747
 
-Info:
+#### Info:
 
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/pangilinan_bio.asp
 * Wiki page: http://en.wikipedia.org/wiki/Kiko_Pangilinan
@@ -343,23 +343,23 @@ Info:
 Koko Pimentel
 -------------
 
-Online:
+#### Online:
 
 * Email: Kokopimentel@hotmail.com
 * Facebook: https://www.facebook.com/AttyKoko
 
-Senate office:
+#### Senate office:
 
 * Address: Rm. 512 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 70 loc. 5548 - 50 / 5586
 * Direct Lines: (632) 832-1498
 * Fax: (632) 832-2541
 
-Law Office:
+#### Law Office:
 
 * Address: Unit 2106, Atlanta Center Bldg., No. 33 Annapolis St., San Juan, Metro Manila 1503, Philippines; Tel. No. 722-5473
 
-Info:
+#### Info:
 
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/pimentel_koko_resume.asp
 * Wiki page: http://en.wikipedia.org/wiki/Aquilino_Pimentel_III
@@ -367,19 +367,19 @@ Info:
 Juan Ponce Enrile (Senate President)
 ------------------------------------
 
-Online:
+#### Online:
 
 * Website: http://www.jpenrile.com/
 * Online contact form: http://www.jpenrile.com/contactjpe/contactjpe.asp
 
-Senate office:
+#### Senate office:
 
 * Address: Rm. 606 6th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 70 loc. 5552 - 53
 * Direct Lines: (632) 552-6691 / (63) 552-6786
 * Telefax: (632) 552-6690
 
-Info:
+#### Info:
 
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/enrile_bio.asp
 * Wiki page: http://en.wikipedia.org/wiki/Juan_Ponce_Enrile
@@ -388,19 +388,19 @@ Info:
 Ralph Recto
 -----------
 
-Online:
+#### Online:
 
 * Email: ralphgrecto@gmail.com
 * Website: http://www.recto.ph
 
-Senate office:
+#### Senate office:
 
 * Address: Rm. 508 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 99 loc. 8543-44 /8546-47
 * Direct Lines: (632) 659-5756 / (632) 804-0749
 * Telefax: (632) 659-5756 / (632) 804-0749
 
-Info:
+#### Info:
 
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/recto_bio.asp
 * Wiki page: https://en.wikipedia.org/wiki/Ralph_Recto
@@ -411,13 +411,13 @@ Bong Revilla Jr.
 * Email: senbongrevilla@senate.gov.ph
 * Facebook: https://www.facebook.com/pages/Senator-Ramon-Bong-Revilla-jr/149026598464828
 
-Senate Office:
+#### Senate Office:
 
 * Address: Rm. 506 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 99 loc. 5521-23 / 5577
 * Telefax: (632) 552-6698
 
-Info:
+#### Info:
 
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/revillajr_bio.asp
 * Wiki page: https://en.wikipedia.org/wiki/Bong_Revilla
@@ -425,7 +425,7 @@ Info:
 Miriam Defensor-Santiago
 ------------------------
 
-Online:
+#### Online:
 
 * Email: miriam@miriam.com.ph
 * Email: senmds@yahoo.com
@@ -433,14 +433,14 @@ Online:
 * Website: http://www.miriam.com.ph
 * Facebook: https://www.facebook.com/pages/Sen-Miriam-Defensor-Santiago/96427505351
 
-Senate office:
+#### Senate office:
 
 * Address: Rm. 521-A 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 70 loc. 5562 / 5590
 * Direct Lines: (632) 552-6692-93
 * Telefax No.: (632) 552-6692
 
-Info:
+#### Info:
 
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/santiago_bio.asp
 * Wiki page: http://en.wikipedia.org/wiki/Miriam_Defensor_Santiago
@@ -454,18 +454,18 @@ Quezon City Office (Main Office):
 Vicente Sotto III (Majority Leader)
 -----------------------------------
 
-Online:
+#### Online:
 
 * Website: http://www.titosotto.com
 * Facebook: http://www.facebook.com/pages/TITO-SEN/277863879871
 
-Senate Office:
+#### Senate Office:
 
 * Address: Rm. 603 6th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 99 loc. 6501-05
 * Fax: (632) 552-6601 loc. 6502
 
-Info:
+#### Info:
 
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/sotto_bio.asp
 * Wiki page: https://en.wikipedia.org/wiki/Vicente_Sotto_III
@@ -473,14 +473,14 @@ Info:
 Sonny Trillanes
 ---------------
 
-Info:
+#### Info:
 
 * Email: senateoffice@trillanes.com.ph
 * Email: senate.office.trillanes@gmail.com
 * Website: http://www.trillanes.com.ph
 * Facebook: https://www.facebook.com/sonnytrillanes.official
 
-Senate Office:
+#### Senate Office:
 
 * Address: Rm. 519 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 70
@@ -489,7 +489,7 @@ Senate Office:
    * Administrative: local 5566
 * Fax: (632) 833-2937
 
-Info:
+#### Info:
 
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/trillanes_antonio_bio.asp
 * Wiki page: https://en.wikipedia.org/wiki/Antonio_Trillanes_IV
@@ -497,27 +497,27 @@ Info:
 Manny Villar
 ------------
 
-Online:
+#### Online:
 
 * Email: mb_villar@yahoo.com
 * Email: mbv_secretariat@yahoo.com
 * Website: http://www.mannyvillar.com.ph
 
-Senate Office:
+#### Senate Office:
 
 * Address: Rm. 503 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 70 loc. 6507-11
 * Direct Lines: (632) 552-6715
 * Fax No.: (632) 552-6734
 
-Villar Foundation:
+#### Villar Foundation:
 
 * Website: http://www.villarfoundation.org/
 * Address: The Villar Foundation, C. Masibay Street, BF Resort Village, Las Piñas City, Philippines 1740
 * Tel: (632) 872-8540 / (632) 872-5488
 * Email: villarfoundationinc@gmail.com
 
-Info:
+#### Info:
 
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/villar_bio.asp
 * Wiki page: https://en.wikipedia.org/wiki/Manny_Villar
@@ -535,7 +535,7 @@ affiliations (usually organizations they've founded) they may have.
 This list is manually maintained by me--please contribute any corrections or
 additions.
 
-Tips:
+#### Tips:
 
 * When sending emails, make sure to send it to all the listed email addresses
 for each senator. You can't be sure which ones are active and which ones aren't.
