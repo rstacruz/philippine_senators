@@ -1,6 +1,10 @@
 Senators of the 15th congress of the Philippines
 ================================================
 
+Note: This document is also available in [JSON format].
+
+[JSON format]: https://github.com/rstacruz/philippine_senators/tree/master/senators.json
+
 Ed Angara
 ---------
 
@@ -295,6 +299,7 @@ Bongbong Marcos
 #### Info:
 
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/bmarcos_bio.asp
+* Wiki page: http://en.wikipedia.org/wiki/Ferdinand_Marcos,_Jr.
 
 Serge Osmena III
 ----------------
