@@ -9,7 +9,7 @@
         "Email": "edgardo_angara@hotmail.com"
       },
       "Senate office": {
-        "Address": "Rm. 504 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City",
+        "Address": [ "Rm. 504 5th Flr., GSIS Bldg.,", "Financial Center, Roxas Blvd.,", "Pasay City" ],
         "Trunk Lines": "(632) 552-6601 to 70 loc. 5571 / 5593",
         "Direct Lines": "(632) 552-6779",
         "Telefax": "(632) 552-6852"
@@ -25,7 +25,7 @@
         "Email": "office_sen_jokerarroyo@yahoo.com"
       },
       "Senate office": {
-        "Address": "Rm 511 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City",
+        "Address": [ "Rm 511 5th Flr., GSIS Bldg.,", "Financial Center, Roxas Blvd.,", "Pasay City" ],
         "Trunk Lines": "(632) 552-6601 to 70 loc. 5567-68",
         "Direct Lines": "(632) 552-6730 / (632) 812-1323",
         "Fax": "(632) 552-6790"
@@ -42,7 +42,7 @@
         "Facebook": "https://www.facebook.com/apcayetano"
       },
       "Senate office": {
-        "Address": "Rm. 601 6th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City",
+        "Address": [ "Rm. 601 6th Flr., GSIS Bldg.,", "Financial Center, Roxas Blvd.,", "Pasay City" ],
         "Trunk Lines": "(632) 552-6601 to 70 loc. 5518 / 5520",
         "Fax": "(632) 832-5281"
       },
@@ -57,12 +57,14 @@
     "Pia Cayetano": {
       "Online": {
         "Email": "pia@senatorpiacayetano.com",
-        "Website": "http://www.senatorpiacayetano.com",
-        "Website (2)": "http://www.mydailyrace.com",
+        "Website": [
+          "http://www.senatorpiacayetano.com",
+          "http://www.mydailyrace.com"
+        ],
         "Facebook": "https://www.facebook.com/pages/Pia-Cayetano/175169705842790"
       },
       "Senate office": {
-        "Address": "Rm. 505 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City",
+        "Address": [ "Rm. 505 5th Flr., GSIS Bldg.,", "Financial Center, Roxas Blvd.,", "Pasay City" ],
         "Trunk Lines": "(632) 552-6601 to 70 loc. 5556 / 5557 / 5588",
         "Direct Lines": "(632) 552-6683 / (632) 552-9003",
         "Fax": "(632) 552-6684"
@@ -77,10 +79,10 @@
       "Online": {
         "Email": "fmdrilon@yahoo.com",
         "Website": "http://frankahan.com",
-        "Facebook": "https://www.facebook.com/frankdrilon (??)"
+        "Facebook": "https://www.facebook.com/frankdrilon"
       },
       "Senate office": {
-        "Address": "Rm. 525 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City",
+        "Address": [ "Rm. 525 5th Flr., GSIS Bldg.,", "Financial Center, Roxas Blvd.,", "Pasay City" ],
         "Trunk Lines": "(632) 552-6601 to 99 loc. 8592 / 8594 - 95",
         "Direct Lines": "(632) 659-5841 / (632) 659-7479",
         "Telefax": "(632) 659-5581"
@@ -94,13 +96,15 @@
 
     "Jinggoy Estrada": {
       "Online": {
-        "Email": "senjinggoyestrada@senate.gov.ph",
-        "Email (2)": "jinggoy@senjinggoyestrada.com",
+        "Email": [
+          "senjinggoyestrada@senate.gov.ph",
+          "jinggoy@senjinggoyestrada.com"
+        ],
         "Website": "http://www.senjinggoyestrada.com",
-        "Website (contact form)": "http://www.senjinggoyestrada.com/index.php/pages/contact.html"
+        "Contact form": "http://www.senjinggoyestrada.com/index.php/pages/contact.html"
       },
       "Senate office": {
-        "Address": "Rm. 602 6th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City",
+        "Address": [ "Rm. 602 6th Flr., GSIS Bldg.,", "Financial Center, Roxas Blvd.,", "Pasay City" ],
         "Trunk Lines": "(632) 552-6601 to 70 loc. 2521 - 24",
         "Direct Lines": "(632) 552-6684-85 / 552-6774",
         "Telefax": "(632) 552-6685"
@@ -113,14 +117,18 @@
 
     "Chiz Escudero": {
       "Online": {
-        "Email": "sen.escudero@gmail.com",
-        "Email (2)": "reachus@chizescudero.com",
+        "Email": [
+          "sen.escudero@gmail.com",
+          "reachus@chizescudero.com"
+        ],
         "Website": "http://www.chizescudero.com",
-        "Facebook": "https://www.facebook.com/senchizescudero",
-        "Facebook (2)": "https://www.facebook.com/Francis.Escudero"
+        "Facebook": [
+          "https://www.facebook.com/senchizescudero",
+          "https://www.facebook.com/Francis.Escudero"
+        ]
       },
       "Senate office": {
-        "Address": "Rm. 517 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City",
+        "Address": [ "Rm. 517 5th Flr., GSIS Bldg.,", "Financial Center, Roxas Blvd.,", "Pasay City" ],
         "Trunk Lines": "(632) 552-6601 to 80 loc. 6537 / 6539 / 6540 / 6541",
         "Direct Lines": "(632) 833-5034 / (632) 833-8765"
       },
@@ -138,14 +146,16 @@
 
     "TG Guingona": {
       "Online": {
-        "Email": "senatorguingona@gmail.com",
-        "Email (2)": "stgmedia@tgguingona.ph",
+        "Email": [
+          "senatorguingona@gmail.com",
+          "stgmedia@tgguingona.ph"
+        ],
         "Website": "http://www.tgguingona.ph",
         "Facebook": "https://www.facebook.com/TgGuingona",
         "Twitter": "http://twitter.com/tgguingona"
       },
       "Senate office": {
-        "Address": "Rm. 502 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City",
+        "Address": [ "Rm. 502 5th Flr., GSIS Bldg.,", "Financial Center, Roxas Blvd.,", "Pasay City" ],
         "Trunk Lines": "(632) 552-6601 to 99 loc. 8560 - 63",
         "Direct Lines": "(632) 986-2001 / (632) 986-8940 / (632) 986-5774",
         "Telefax": "(632) 8326768"
@@ -163,7 +173,7 @@
         "Facebook": "https://www.facebook.com/Gringo.Honasan"
       },
       "Senate office": {
-        "Address": "Rm. 507 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City",
+        "Address": [ "Rm. 507 5th Flr., GSIS Bldg.,", "Financial Center, Roxas Blvd.,", "Pasay City" ],
         "Trunk Lines": "(632) 552-6601 to 70 loc. 5533 /5580",
         "Telefax": "(632) 551-0525"
       },
@@ -178,7 +188,7 @@
         "Email": "ospml@yahoo.com"
       },
       "Senate office": {
-        "Address": "Rm. 510 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City",
+        "Address": [ "Rm. 510 5th Flr., GSIS Bldg.,", "Financial Center, Roxas Blvd.,", "Pasay City" ],
         "Trunk Lines": "(632) 552-6601 to 70 loc. 5534 / 5585",
         "Direct Line": "(632) 552-6786",
         "Fax": "(632) 834-6590"
@@ -191,11 +201,13 @@
 
     "Lito Lapid": {
       "Online": {
-        "Email": "sen.litolapid@senate.gov.ph",
-        "Email (2)": "sujo408@yahoo.com"
+        "Email": [
+          "sen.litolapid@senate.gov.ph",
+          "sujo408@yahoo.com"
+        ]
       },
       "Senate office": {
-        "Address": "Rm. 516 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City",
+        "Address": [ "Rm. 516 5th Flr., GSIS Bldg.,", "Financial Center, Roxas Blvd.,", "Pasay City" ],
         "Trunk Lines": "(632) 552-6601 to 70  loc. 5536 / 5574 - 75",
         "Direct Line": "(632) 552-6694 / (632) 832-7949",
         "Telefax": "(632) 552-6695"
@@ -215,7 +227,7 @@
         "Youtube": "http://www.youtube.com/user/senatorlorenlegarda"
       },
       "Senate office": {
-        "Address": "Rm. 209 2nd Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City",
+        "Address": [ "Rm. 209 2nd Flr., GSIS Bldg.,", "Financial Center, Roxas Blvd.,", "Pasay City" ],
         "Trunk Lines": "(632) 552-6601 to 70 loc. 5537 / 5538 / 5539",
         "Direct Line": "(632) 833-1434",
         "Telefax": "(632) 833-4987"
@@ -243,7 +255,7 @@
         "Youtube": "http://www.youtube.com/user/asikasongbongbong"
       },
       "Senate office": {
-        "Address": "Rm. 518 5th flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City",
+        "Address": [ "Rm. 518 5th flr., GSIS Bldg.,", "Financial Center, Roxas Blvd.,", "Pasay City" ],
         "Trunk Lines": "(632) 552-6601 to 99 loc. 8570-73",
         "Telefax": "(632) 659-5045"
       },
@@ -258,7 +270,7 @@
         "Email": "osmena111@yahoo.com"
       },
       "Senate office": {
-        "Address": "Rm. 527 5th flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City",
+        "Address": [ "Rm. 527 5th flr., GSIS Bldg.,", "Financial Center, Roxas Blvd.,", "Pasay City" ],
         "Trunk Lines": "(632) 552-6601 to 99 loc. 8525-26"
       },
       "Info": {
@@ -269,16 +281,18 @@
 
     "Kiko Pangilinan": {
       "Online": {
-        "Email": "kilosko2004@yahoo.com",
-        "Email (2)": "kiko.pangilinan@gmail.com",
-        "Email (3)": "kikopangilinan@kiko.ph",
+        "Email": [
+          "kilosko2004@yahoo.com",
+          "kiko.pangilinan@gmail.com",
+          "kikopangilinan@kiko.ph"
+        ],
         "Website": "http://www.kiko.ph",
         "Facebook": "http://www.facebook.com/kikopangilinan",
         "Twitter": "https://twitter.com/kikopangilinan",
         "YouTube": "http://www.youtube.com/francispangilinan"
       },
       "Senate office": {
-        "Address": "Rm. 502 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City",
+        "Address": [ "Rm. 502 5th Flr., GSIS Bldg.,", "Financial Center, Roxas Blvd.,", "Pasay City" ],
         "Trunk Lines": "(632) 552-6601 to 70 loc. 6512 / 6514 / 6518 / 2344",
         "Direct Lines": "(632) 552-6732",
         "Fax": "(632) 552-6747"
@@ -297,13 +311,13 @@
         "Facebook": "https://www.facebook.com/AttyKoko"
       },
       "Senate office": {
-        "Address": "Rm. 512 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City",
+        "Address": [ "Rm. 512 5th Flr., GSIS Bldg.,", "Financial Center, Roxas Blvd.,", "Pasay City" ],
         "Trunk Lines": "(632) 552-6601 to 70 loc. 5548 - 50 / 5586",
         "Direct Lines": "(632) 832-1498",
         "Fax": "(632) 832-2541"
       },
       "Law Office": {
-        "Address": "Unit 2106, Atlanta Center Bldg., No. 33 Annapolis St., San Juan, Metro Manila 1503, Philippines",
+        "Address": [ "Unit 2106, Atlanta Center Bldg.,", "No. 33 Annapolis St.,", "San Juan, Metro Manila 1503" ],
         "Telephone": "722-5473"
       },
       "Info": {
@@ -315,7 +329,7 @@
     "Juan Ponce Enrile": {
       "Online": {
         "Website": "http://www.jpenrile.com/",
-        "Website (contact form)": "http://www.jpenrile.com/contactjpe/contactjpe.asp"
+        "Contact form": "http://www.jpenrile.com/contactjpe/contactjpe.asp"
       },
       "Senate office": {
         "Address": "Rm. 606 6th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City",
@@ -336,7 +350,7 @@
         "Website": "http://www.recto.ph"
       },
       "Senate office": {
-        "Address": "Rm. 508 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City",
+        "Address": [ "Rm. 508 5th Flr., GSIS Bldg.,", "Financial Center, Roxas Blvd.,", "Pasay City" ],
         "Trunk Lines": "(632) 552-6601 to 99 loc. 8543-44 /8546-47",
         "Direct Lines": "(632) 659-5756 / (632) 804-0749",
         "Telefax": "(632) 659-5756 / (632) 804-0749"
@@ -353,7 +367,7 @@
         "Facebook": "https://www.facebook.com/pages/Senator-Ramon-Bong-Revilla-jr/149026598464828"
       },
       "Senate office": {
-        "Address": "Rm. 506 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City",
+        "Address": [ "Rm. 506 5th Flr., GSIS Bldg.,", "Financial Center, Roxas Blvd.,", "Pasay City" ],
         "Trunk Lines": "(632) 552-6601 to 99 loc. 5521-23 / 5577",
         "Telefax": "(632) 552-6698"
       },
@@ -365,14 +379,16 @@
 
     "Miriam Defensor-Santiago": {
       "Online": {
-        "Email": "miriam@miriam.com.ph",
-        "Email (2)": "senmds@yahoo.com",
-        "Email (3)": "mdsmediabureau@yahoo.com",
+        "Email": [
+          "miriam@miriam.com.ph",
+          "senmds@yahoo.com",
+          "mdsmediabureau@yahoo.com"
+        ],
         "Website": "http://www.miriam.com.ph",
         "Facebook": "https://www.facebook.com/pages/Sen-Miriam-Defensor-Santiago/96427505351"
       },
       "Senate office": {
-        "Address": "Rm. 521-A 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City",
+        "Address": [ "Rm. 521-A 5th Flr., GSIS Bldg.,", "Financial Center, Roxas Blvd.,", "Pasay City" ],
         "Trunk Lines": "(632) 552-6601 to 70 loc. 5562 / 5590",
         "Direct Lines": "(632) 552-6692-93",
         "Telefax": "(632) 552-6692"
@@ -394,7 +410,7 @@
         "Facebook": "http://www.facebook.com/pages/TITO-SEN/277863879871"
       },
       "Senate office": {
-        "Address": "Rm. 603 6th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City",
+        "Address": [ "Rm. 603 6th Flr., GSIS Bldg.,", "Financial Center, Roxas Blvd.,", "Pasay City" ],
         "Trunk Lines": "(632) 552-6601 to 99 loc. 6501-05",
         "Fax": "(632) 552-6601 loc. 6502"
       },
@@ -406,13 +422,15 @@
 
     "Sonny Trillanes": {
       "Info": {
-        "Email": "senateoffice@trillanes.com.ph",
-        "Email (2)": "senate.office.trillanes@gmail.com",
+        "Email": [
+          "senateoffice@trillanes.com.ph",
+          "senate.office.trillanes@gmail.com"
+        ],
         "Website": "http://www.trillanes.com.ph",
         "Facebook": "https://www.facebook.com/sonnytrillanes.official"
       },
       "Senate office": {
-        "Address": "Rm. 519 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City",
+        "Address": [ "Rm. 519 5th Flr. GSIS Bldg.,", "Financial Center, Roxas Blvd.,", "Pasay City" ],
         "Trunk Lines": "(632) 552-6601 to 70 [legislative: local 5559, communications: local 5560, administrative: local 5566]",
         "Fax": "(632) 833-2937"
       },
@@ -424,20 +442,22 @@
 
     "Manny Villar": {
       "Online": {
-        "Email": "mb_villar@yahoo.com",
-        "Email (2)": "mbv_secretariat@yahoo.com",
+        "Email": [
+          "mb_villar@yahoo.com",
+          "mbv_secretariat@yahoo.com"
+        ],
         "Website": "http://www.mannyvillar.com.ph"
       },
       "Senate office": {
-        "Address": "Rm. 503 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City",
+        "Address": [ "Rm. 503 5th Flr., GSIS Bldg.,", "Financial Center, Roxas Blvd.,", "Pasay City" ],
         "Trunk Lines": "(632) 552-6601 to 70 loc. 6507-11",
         "Direct Lines": "(632) 552-6715",
         "Fax": "(632) 552-6734"
       },
       "Villar Foundation": {
         "Website": "http://www.villarfoundation.org/",
-        "Address": "The Villar Foundation, C. Masibay Street, BF Resort Village, Las Piñas City, Philippines 1740",
-        "Tel": "(632) 872-8540 / (632) 872-5488",
+        "Address": [ "The Villar Foundation", "C. Masibay Street, BF Resort Village", "Las Piñas City, Philippines 1740" ],
+        "Tel": [ "(632) 872-8540", "(632) 872-5488" ],
         "Email": "villarfoundationinc@gmail.com"
       },
       "Info": {
