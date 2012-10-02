@@ -336,7 +336,7 @@ Kiko Pangilinan
 * Address: Rm. 502 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 70 loc. 6512 / 6514 / 6518 / 2344
 * Direct Lines: (632) 552-6732
-* Fax No.: (632) 552-6747
+* Fax: (632) 552-6747
 
 #### Info:
 
@@ -362,7 +362,8 @@ Koko Pimentel
 
 #### Law Office:
 
-* Address: Unit 2106, Atlanta Center Bldg., No. 33 Annapolis St., San Juan, Metro Manila 1503, Philippines; Tel. No. 722-5473
+* Address: Unit 2106, Atlanta Center Bldg., No. 33 Annapolis St., San Juan, Metro Manila 1503, Philippines
+* Telephone: 722-5473
 
 #### Info:
 
@@ -443,7 +444,7 @@ Miriam Defensor-Santiago
 * Address: Rm. 521-A 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 70 loc. 5562 / 5590
 * Direct Lines: (632) 552-6692-93
-* Telefax No.: (632) 552-6692
+* Telefax: (632) 552-6692
 
 #### Info:
 
@@ -513,7 +514,7 @@ Manny Villar
 * Address: Rm. 503 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 70 loc. 6507-11
 * Direct Lines: (632) 552-6715
-* Fax No.: (632) 552-6734
+* Fax: (632) 552-6734
 
 #### Villar Foundation:
 
