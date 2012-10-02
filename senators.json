@@ -1,6 +1,12 @@
 {
   "contactInfo": {
     "Ed Angara": {
+      "structuredName": {
+        "honorificPrefix": "Sen.",
+        "givenName": "Edgardo",
+        "additionalName": "J.",
+        "familyName": "Angara"
+      },
       "Online": {
         "Website": "http://edangara.com/",
         "Facebook": "https://www.facebook.com/edangara2",
@@ -23,6 +29,12 @@
       }
     },
     "Joker Arroyo": {
+      "structuredName": {
+        "honorificPrefix": "Sen.",
+        "givenName": "Joker",
+        "additionalName": "P.",
+        "familyName": "Arroyo"
+      },
       "Online": {
         "Email": "office_sen_jokerarroyo@yahoo.com"
       },
@@ -45,6 +57,11 @@
       }
     },
     "Alan Peter Cayetano": {
+      "structuredName": {
+        "honorificPrefix": "Hon.",
+        "givenName": "Alan Peter",
+        "familyName": "Cayetano"
+      },
       "Online": {
         "Email": "alancayetano@yahoo.com",
         "Facebook": "https://www.facebook.com/apcayetano"
@@ -98,6 +115,12 @@
       }
     },
     "Franklin Drilon": {
+      "structuredName": {
+        "honorificPrefix": "Sen.",
+        "givenName": "Franklin",
+        "additionalName": "Magtunao",
+        "familyName": "Drilon"
+      },
       "Online": {
         "Email": "fmdrilon@yahoo.com",
         "Website": "http://frankahan.com",
@@ -123,6 +146,12 @@
       }
     },
     "Jinggoy Estrada": {
+      "structuredName": {
+        "honorificPrefix": "Sen.",
+        "givenName": "Jose",
+        "additionalName": "Pimentel",
+        "familyName": "Ejercito, Jr."
+      },
       "Online": {
         "Email": [
           "senjinggoyestrada@senate.gov.ph",
@@ -151,6 +180,12 @@
       }
     },
     "Chiz Escudero": {
+      "structuredName": {
+        "honorificPrefix": "Sen.",
+        "givenName": "Francis Joseph \"Chiz\"",
+        "additionalName": "Guevarra",
+        "familyName": "Escudero"
+      },
       "Online": {
         "Email": [
           "sen.escudero@gmail.com",
@@ -191,6 +226,12 @@
       }
     },
     "TG Guingona": {
+      "structuredName": {
+        "honorificPrefix": "Sen.",
+        "givenName": "Tiofisto",
+        "additionalName": "de Lara",
+        "familyName": "Guingona III"
+      },
       "Online": {
         "Email": [
           "senatorguingona@gmail.com",
@@ -220,6 +261,12 @@
       }
     },
     "Gringo Honasan": {
+      "structuredName": {
+        "honorificPrefix": "Sen.",
+        "givenName": "Gregorio",
+        "additionalName": "Ballesteros",
+        "familyName": "Honasan II"
+      },
       "Online": {
         "Email": "gringobhonasan@gmail.com",
         "Website": "http://www.gringohonasan.ph",
@@ -240,6 +287,12 @@
       }
     },
     "Ping Lacson": {
+      "structuredName": {
+        "honorificPrefix": "Sen.",
+        "givenName": "Panfilo",
+        "additionalName": "Morena",
+        "familyName": "Lacson, Sr."
+      },
       "Online": {
         "Email": "ospml@yahoo.com"
       },
@@ -259,6 +312,12 @@
       }
     },
     "Lito Lapid": {
+      "structuredName": {
+        "honorificPrefix": "Sen.",
+        "givenName": "Manuel",
+        "additionalName": "Mercado",
+        "familyName": "Lapid"
+      },
       "Online": {
         "Email": [
           "sen.litolapid@senate.gov.ph",
@@ -284,6 +343,11 @@
       }
     },
     "Loren Legarda": {
+      "structuredName": {
+        "honorificPrefix": "Sen.",
+        "givenName": "Loren",
+        "familyName": "Legarda"
+      },
       "Online": {
         "Email": "loren@lorenlegarda.com.ph",
         "Website": "http://www.lorenlegarda.com.ph",
@@ -315,6 +379,12 @@
       }
     },
     "Bongbong Marcos": {
+      "structuredName": {
+        "honorificPrefix": "Sen.",
+        "givenName": "Ferdinand",
+        "additionalName": "Romualdez",
+        "familyName": "Marcos Jr."
+      },
       "Online": {
         "Email": "inquiry.bbmoffice@gmail.com",
         "Website": "http://www.bongbongm.com",
@@ -337,6 +407,12 @@
       }
     },
     "Serge Osmena III": {
+      "structuredName": {
+        "honorificPrefix": "Sen.",
+        "givenName": "Sergio",
+        "additionalName": "de la Rama",
+        "familyName": "Osmeña III"
+      },
       "Online": {
         "Email": "osmena111@yahoo.com"
       },
@@ -354,6 +430,12 @@
       }
     },
     "Kiko Pangilinan": {
+      "structuredName": {
+        "honorificPrefix": "Sen.",
+        "givenName": "Francis",
+        "additionalName": "Nepumoceno",
+        "familyName": "Pangilinan"
+      },
       "Online": {
         "Email": [
           "kilosko2004@yahoo.com",
@@ -383,6 +465,12 @@
       }
     },
     "Koko Pimentel": {
+      "structuredName": {
+        "honorificPrefix": "Sen.",
+        "givenName": "Aquilino",
+        "additionalName": "de la Llama",
+        "familyName": "Pimentel III"
+      },
       "Online": {
         "Email": "Kokopimentel@hotmail.com",
         "Facebook": "https://www.facebook.com/AttyKoko"
@@ -411,6 +499,11 @@
       }
     },
     "Juan Ponce Enrile": {
+      "structuredName": {
+        "honorificPrefix": "Sen.",
+        "givenName": "Juanito",
+        "familyName": "Ponce Enrile"
+      },
       "Online": {
         "Website": "http://www.jpenrile.com/",
         "Contact form": "http://www.jpenrile.com/contactjpe/contactjpe.asp"
@@ -431,6 +524,12 @@
       }
     },
     "Ralph Recto": {
+      "structuredName": {
+        "honorificPrefix": "Sen.",
+        "givenName": "Ralph",
+        "additionalName": "Gonzalez",
+        "familyName": "Recto"
+      },
       "Online": {
         "Email": "ralphgrecto@gmail.com",
         "Website": "http://www.recto.ph"
@@ -457,6 +556,11 @@
       }
     },
     "Bong Revilla Jr.": {
+      "structuredName": {
+        "honorificPrefix": "Sen.",
+        "givenName": "Ramon \"Bong\"",
+        "familyName": "Revilla, Jr."
+      },
       "Online": {
         "Email": "senbongrevilla@senate.gov.ph",
         "Facebook": "https://www.facebook.com/pages/Senator-Ramon-Bong-Revilla-jr/149026598464828"
@@ -475,7 +579,12 @@
         "Wiki page": "https://en.wikipedia.org/wiki/Bong_Revilla"
       }
     },
-    "Miriam Defensor-Santiago": {
+    "Miriam Defensor Santiago": {
+      "structuredName": {
+        "honorificPrefix": "Sen.",
+        "givenName": "Miriam",
+        "familyName": "Defensor Santiago"
+      },
       "Online": {
         "Email": [
           "miriam@miriam.com.ph",
@@ -508,7 +617,13 @@
         "Telefax": "(632) 374-3059"
       }
     },
-    "Vicente Sotto III": {
+    "Tito Sotto": {
+      "structuredName": {
+        "honorificPrefix": "Sen.",
+        "givenName": "Vicente \"Tito\"",
+        "additionalName": "Castello",
+        "familyName": "Sotto III"
+      },
       "Online": {
         "Website": "http://www.titosotto.com",
         "Facebook": "http://www.facebook.com/pages/TITO-SEN/277863879871"
@@ -528,6 +643,12 @@
       }
     },
     "Sonny Trillanes": {
+      "structuredName": {
+        "honorificPrefix": "Sen.",
+        "givenName": "Antonio \"Sonny\"",
+        "additionalName": "Fuentes",
+        "familyName": "Trillanes IV"
+      },
       "Info": {
         "Official bio": "http://www.senate.gov.ph/senators/sen_bio/trillanes_antonio_bio.asp",
         "Wiki page": "https://en.wikipedia.org/wiki/Antonio_Trillanes_IV"
@@ -543,6 +664,12 @@
       }
     },
     "Manny Villar": {
+      "structuredName": {
+        "honorificPrefix": "Sen.",
+        "givenName": "Manuel \"Manny\"",
+        "additionalName": "Bamba",
+        "familyName": "Villar, Jr."
+      },
       "Online": {
         "Email": [
           "mb_villar@yahoo.com",

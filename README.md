@@ -8,6 +8,8 @@ Note: This document is also available in [JSON format].
 Ed Angara
 ---------
 
+Sen. Edgardo J. Angara
+
 #### Online:
 
 * Website: http://edangara.com/
@@ -30,6 +32,8 @@ Ed Angara
 Joker Arroyo
 ------------
 
+Sen. Joker Arroyo
+
 #### Online:
 
 * Email: office_sen_jokerarroyo@yahoo.com
@@ -48,6 +52,8 @@ Joker Arroyo
 
 Alan Peter Cayetano (Minority Leader)
 -------------------------------------
+
+Hon. Alan Peter Cayetano
 
 #### Online:
 
@@ -69,6 +75,8 @@ Alan Peter Cayetano (Minority Leader)
 
 Pia Cayetano
 ------------
+
+Sen. Pilar Juliana "Pia" Cayetano
 
 #### Online:
 
@@ -92,6 +100,8 @@ Pia Cayetano
 Franklin Drilon
 ---------------
 
+Sen. Franklin Magtunao Drilon
+
 #### Online:
 
 * Email: fmdrilon@yahoo.com
@@ -114,6 +124,8 @@ Franklin Drilon
 Jinggoy Estrada (Senate President Pro-Tempore)
 ----------------------------------------------
 
+Sen. Jose Pimentel Ejercito, Jr.
+
 #### Online:
 
 * Email: senjinggoyestrada@senate.gov.ph
@@ -135,6 +147,8 @@ Jinggoy Estrada (Senate President Pro-Tempore)
 
 Chiz Escudero
 -------------
+
+Sen. Francis Joseph "Chiz" Guevarra Escudero
 
 #### Online:
 
@@ -165,6 +179,8 @@ Chiz Escudero
 TG Guingona
 -----------
 
+Sen. Tiofisto de lara Guingona III
+
 #### Online:
 
 * Email: senatorguingona@gmail.com
@@ -188,6 +204,8 @@ TG Guingona
 Gringo Honasan
 --------------
 
+Sen. Gregorio Ballesteros Honasan II
+
 #### Online:
 
 * Email: gringobhonasan@gmail.com
@@ -207,6 +225,8 @@ Gringo Honasan
 
 Ping Lacson
 -----------
+
+Sen. Panfilo Morena Lacson, Sr.
 
 #### Online:
 
@@ -229,6 +249,8 @@ Ping Lacson
 Lito Lapid
 ----------
 
+Sen. Manuel Mercado Lapid
+
 #### Online:
 
 * Email: sen.litolapid@senate.gov.ph
@@ -248,6 +270,8 @@ Lito Lapid
 
 Loren Legarda
 -------------
+
+Sen. Loren Legarda
 
 #### Online:
 
@@ -282,6 +306,8 @@ Philippine Youth Climate Movement (organization):
 Bongbong Marcos
 ---------------
 
+Sen. Ferdinand Romualdez Marcos, Jr.
+
 #### Online:
 
 * Email: inquiry.bbmoffice@gmail.com
@@ -304,6 +330,8 @@ Bongbong Marcos
 Serge Osmena III
 ----------------
 
+Sen. Sergio de la Rama Osmeña III
+
 #### Online:
 
 * Email: osmena111@yahoo.com
@@ -320,6 +348,8 @@ Serge Osmena III
 
 Kiko Pangilinan
 ---------------
+
+Sen. Francis Nepumoceno Pangilinan
 
 #### Online:
 
@@ -348,6 +378,8 @@ Kiko Pangilinan
 Koko Pimentel
 -------------
 
+Sen. Aquilino de la Llama Pimentel III
+
 #### Online:
 
 * Email: Kokopimentel@hotmail.com
@@ -373,6 +405,8 @@ Koko Pimentel
 Juan Ponce Enrile (Senate President)
 ------------------------------------
 
+Sen. Juanito Ponce Enrile
+
 #### Online:
 
 * Website: http://www.jpenrile.com/
@@ -394,6 +428,8 @@ Juan Ponce Enrile (Senate President)
 Ralph Recto
 -----------
 
+Sen. Ralph Gonzalez Recto
+
 #### Online:
 
 * Email: ralphgrecto@gmail.com
@@ -414,6 +450,8 @@ Ralph Recto
 Bong Revilla Jr.
 ----------------
 
+Sen. Ramon "Bong" Revilla, Jr.
+
 * Email: senbongrevilla@senate.gov.ph
 * Facebook: https://www.facebook.com/pages/Senator-Ramon-Bong-Revilla-jr/149026598464828
 
@@ -428,8 +466,10 @@ Bong Revilla Jr.
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/revillajr_bio.asp
 * Wiki page: https://en.wikipedia.org/wiki/Bong_Revilla
 
-Miriam Defensor-Santiago
+Miriam Defensor Santiago
 ------------------------
+
+Sen. Miriam Defensor Santiago
 
 #### Online:
 
@@ -457,8 +497,10 @@ Quezon City Office (Main Office):
 * Direct Lines: (632) 411-4380 / (632) 371-9156 / (632)372-4573
 * Telefax: (632) 374-3059
 
-Vicente Sotto III (Majority Leader)
------------------------------------
+Tito Sotto (Majority Leader)
+----------------------------
+
+Sen. Vicente Castello Sotto III
 
 #### Online:
 
@@ -478,6 +520,8 @@ Vicente Sotto III (Majority Leader)
 
 Sonny Trillanes
 ---------------
+
+Sen. Antonio "Sonny" Trillanes IV
 
 #### Info:
 
@@ -502,6 +546,8 @@ Sonny Trillanes
 
 Manny Villar
 ------------
+
+Sen. Manuel "Manny" Bamba Villar, Jr.
 
 #### Online:
 
@@ -566,9 +612,17 @@ than an e-mail or FB/Twitter post.
 concerns, the more you can convince senators (and their staff) that the issues
 you raise are relevant to their constituents.
 
-* Direct lines are usually better than trunk lines.
+* When sending emails/letters:
+
+  - Address the senators, even if your letter is most likely going to be read by
+  his/her staff.
+
+  - Address the senators by their full name (eg, *Sen. Vicence Sotto III*), not their
+  popular name (eg, *Tito Sotto*).
 
 * When you call:
+
+  - Direct lines are usually better than trunk lines.
 
   - Say your name, where you're from, and what you're calling about. For
   example: *"ako po si Rico Sta Cruz mula sa Makati city. Tumatawag po ako 
