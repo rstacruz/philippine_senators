@@ -500,7 +500,7 @@ Quezon City Office (Main Office):
 Tito Sotto (Majority Leader)
 ----------------------------
 
-Sen. Vicente Castello Sotto III
+Sen. Vicente Castelo Sotto III
 
 #### Online:
 
