@@ -602,13 +602,13 @@ tracker] so I can update this list.
 * If a senator here has no Facebook page linked, it probably means that any
 Facebook pages you'll find associated with them are fake/unofficial.
 
-* Try to contact them in more than one medium. Facebook posts alone will not be
+* Try to contact them through more than one medium. Facebook posts alone will not be
 very effective; try to at least send snail mail to their Senate office
 addresses. A face-to-face meeting (if you can manage it!) will have a better
 potential than a letter; a letter, more than a phone call; a phone call, more
 than an e-mail or FB/Twitter post.
 
-* Encourage your friends to send letters, as well. The more people send in their
+* Encourage your friends to send letters as well. The more people send in their
 concerns, the more you can convince senators (and their staff) that the issues
 you raise are relevant to their constituents.
 
