@@ -33,7 +33,10 @@
           "Pasay City"
         ],
         "Trunk Lines": "(632) 552-6601 to 70 loc. 5567-68",
-        "Direct Lines": "(632) 552-6730 / (632) 812-1323",
+        "Direct Lines": [
+          "(632) 552-6730",
+          "(632) 812-1323"
+        ],
         "Fax": "(632) 552-6790"
       },
       "Info": {
@@ -78,7 +81,10 @@
           "Pasay City"
         ],
         "Trunk Lines": "(632) 552-6601 to 70 loc. 5556 / 5557 / 5588",
-        "Direct Lines": "(632) 552-6683 / (632) 552-9003",
+        "Direct Lines": [
+          "(632) 552-6683",
+          "(632) 552-9003"
+        ],
         "Fax": "(632) 552-6684"
       },
       "Info": {
@@ -99,7 +105,10 @@
           "Pasay City"
         ],
         "Trunk Lines": "(632) 552-6601 to 99 loc. 8592 / 8594 - 95",
-        "Direct Lines": "(632) 659-5841 / (632) 659-7479",
+        "Direct Lines": [
+          "(632) 659-5841",
+          "(632) 659-7479"
+        ],
         "Telefax": "(632) 659-5581"
       },
       "Info": {
@@ -124,7 +133,11 @@
           "Pasay City"
         ],
         "Trunk Lines": "(632) 552-6601 to 70 loc. 2521 - 24",
-        "Direct Lines": "(632) 552-6684-85 / 552-6774",
+        "Direct Lines": [
+          "(632) 552-6684",
+          "(632) 552-6685",
+          "(632) 552-6774"
+        ],
         "Telefax": "(632) 552-6685"
       },
       "Info": {
@@ -151,7 +164,10 @@
           "Pasay City"
         ],
         "Trunk Lines": "(632) 552-6601 to 80 loc. 6537 / 6539 / 6540 / 6541",
-        "Direct Lines": "(632) 833-5034 / (632) 833-8765"
+        "Direct Lines": [
+          "(632) 833-5034",
+          "(632) 833-8765"
+        ]
       },
       "Info": {
         "Official bio": "http://www.senate.gov.ph/senators/sen_bio/escudero_francisjoseph_bio1.asp",
@@ -186,8 +202,12 @@
           "Pasay City"
         ],
         "Trunk Lines": "(632) 552-6601 to 99 loc. 8560 - 63",
-        "Direct Lines": "(632) 986-2001 / (632) 986-8940 / (632) 986-5774",
-        "Telefax": "(632) 8326768"
+        "Direct Lines": [
+          "(632) 986-2001",
+          "(632) 986-8940",
+          "(632) 986-5774"
+        ],
+        "Telefax": "(632) 832-6768"
       },
       "Info": {
         "Official bio": "http://www.senate.gov.ph/senators/sen_bio/guingona_tg_bio.asp",
@@ -247,7 +267,10 @@
           "Pasay City"
         ],
         "Trunk Lines": "(632) 552-6601 to 70  loc. 5536 / 5574 - 75",
-        "Direct Line": "(632) 552-6694 / (632) 832-7949",
+        "Direct Line": [
+          "(632) 552-6694",
+          "(632) 832-7949"
+        ],
         "Telefax": "(632) 552-6695"
       },
       "Info": {
@@ -390,7 +413,10 @@
       "Senate office": {
         "Address": "Rm. 606 6th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City",
         "Trunk Lines": "(632) 552-6601 to 70 loc. 5552 - 53",
-        "Direct Lines": "(632) 552-6691 / (63) 552-6786",
+        "Direct Lines": [
+          "(632) 552-6691",
+          "(632) 552-6786"
+        ],
         "Telefax": "(632) 552-6690"
       },
       "Info": {
@@ -411,8 +437,14 @@
           "Pasay City"
         ],
         "Trunk Lines": "(632) 552-6601 to 99 loc. 8543-44 /8546-47",
-        "Direct Lines": "(632) 659-5756 / (632) 804-0749",
-        "Telefax": "(632) 659-5756 / (632) 804-0749"
+        "Direct Lines": [
+          "(632) 659-5756",
+          "(632) 804-0749"
+        ],
+        "Telefax": [
+          "(632) 659-5756",
+          "(632) 804-0749"
+        ]
       },
       "Info": {
         "Official bio": "http://www.senate.gov.ph/senators/sen_bio/recto_bio.asp",
@@ -455,7 +487,10 @@
           "Pasay City"
         ],
         "Trunk Lines": "(632) 552-6601 to 70 loc. 5562 / 5590",
-        "Direct Lines": "(632) 552-6692-93",
+        "Direct Lines": [
+          "(632) 552-6692",
+          "(632) 552-6693"
+        ],
         "Telefax": "(632) 552-6692"
       },
       "Info": {

@@ -382,7 +382,7 @@ Juan Ponce Enrile (Senate President)
 
 * Address: Rm. 606 6th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 70 loc. 5552 - 53
-* Direct Lines: (632) 552-6691 / (63) 552-6786
+* Direct Lines: (632) 552-6691 / (632) 552-6786
 * Telefax: (632) 552-6690
 
 #### Info:
