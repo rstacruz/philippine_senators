@@ -179,7 +179,7 @@ Sen. Francis Joseph "Chiz" Guevarra Escudero
 TG Guingona
 -----------
 
-Sen. Tiofisto de lara Guingona III
+Sen. Tiofisto de Lara Guingona III
 
 #### Online:
 
