@@ -46,8 +46,8 @@ Joker Arroyo
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/arroyo_bio.asp
 * Wiki page: http://en.wikipedia.org/wiki/Joker_Arroyo
 
-Allan Peter Cayetano (Minority Leader)
---------------------------------------
+Alan Peter Cayetano (Minority Leader)
+-------------------------------------
 
 #### Online:
 
@@ -63,7 +63,7 @@ Allan Peter Cayetano (Minority Leader)
 #### Info:
 
 * Official bio: http://www.senate.gov.ph/senators/sen_bio/cayetano_alanpeter_resume.asp
-* Wiki page: https://en.wikipedia.org/wiki/Allan_Peter_Cayetano
+* Wiki page: https://en.wikipedia.org/wiki/Alan_Peter_Cayetano
 * Bio (i-site): http://www.i-site.ph/Databases/Congress/13thHouse/personal/cayetano-personal.html
 * SALN (2003?): http://www.i-site.ph/Databases/Congress/13thHouse/SALS/cayetano-SAL.html
 

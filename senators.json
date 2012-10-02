@@ -44,7 +44,7 @@
         "Wiki page": "http://en.wikipedia.org/wiki/Joker_Arroyo"
       }
     },
-    "Allan Peter Cayetano": {
+    "Alan Peter Cayetano": {
       "Online": {
         "Email": "alancayetano@yahoo.com",
         "Facebook": "https://www.facebook.com/apcayetano"
@@ -60,12 +60,17 @@
       },
       "Info": {
         "Official bio": "http://www.senate.gov.ph/senators/sen_bio/cayetano_alanpeter_resume.asp",
-        "Wiki page": "https://en.wikipedia.org/wiki/Allan_Peter_Cayetano",
+        "Wiki page": "https://en.wikipedia.org/wiki/Alan_Peter_Cayetano",
         "Bio (i-site)": "http://www.i-site.ph/Databases/Congress/13thHouse/personal/cayetano-personal.html",
         "SALN": "http://www.i-site.ph/Databases/Congress/13thHouse/SALS/cayetano-SAL.html"
       }
     },
     "Pia Cayetano": {
+      "structuredName": {
+        "honorificPrefix": "Sen.",
+        "givenName": "Pilar Juliana \"Pia\"",
+        "familyName": "Cayetano"
+      },
       "Online": {
         "Email": "pia@senatorpiacayetano.com",
         "Website": [
