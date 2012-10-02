@@ -54,7 +54,7 @@ Allan Peter Cayetano (Minority Leader)
 * Email: alancayetano@yahoo.com
 * Facebook: https://www.facebook.com/apcayetano (??)
 
-#### Senate Office:
+#### Senate office:
 
 * Address: Rm. 601 6th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 70 loc. 5518 / 5520
@@ -121,7 +121,7 @@ Jinggoy Estrada (Senate President Pro-Tempore)
 * Website: http://www.senjinggoyestrada.com
 * Website contact form: http://www.senjinggoyestrada.com/index.php/pages/contact.html
 
-#### Senate Office:
+#### Senate office:
 
 * Address: Rm. 602 6th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 70 loc. 2521 - 24
@@ -417,7 +417,7 @@ Bong Revilla Jr.
 * Email: senbongrevilla@senate.gov.ph
 * Facebook: https://www.facebook.com/pages/Senator-Ramon-Bong-Revilla-jr/149026598464828
 
-#### Senate Office:
+#### Senate office:
 
 * Address: Rm. 506 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 99 loc. 5521-23 / 5577
@@ -465,7 +465,7 @@ Vicente Sotto III (Majority Leader)
 * Website: http://www.titosotto.com
 * Facebook: http://www.facebook.com/pages/TITO-SEN/277863879871
 
-#### Senate Office:
+#### Senate office:
 
 * Address: Rm. 603 6th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 99 loc. 6501-05
@@ -486,7 +486,7 @@ Sonny Trillanes
 * Website: http://www.trillanes.com.ph
 * Facebook: https://www.facebook.com/sonnytrillanes.official
 
-#### Senate Office:
+#### Senate office:
 
 * Address: Rm. 519 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 70
@@ -509,7 +509,7 @@ Manny Villar
 * Email: mbv_secretariat@yahoo.com
 * Website: http://www.mannyvillar.com.ph
 
-#### Senate Office:
+#### Senate office:
 
 * Address: Rm. 503 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 70 loc. 6507-11
@@ -557,7 +557,7 @@ tracker] so I can update this list.
 Facebook pages you'll find associated with them are fake/unofficial.
 
 * Try to contact them in more than one medium. Facebook posts alone will not be
-very effective; try to at least send snail mail to their senate office
+very effective; try to at least send snail mail to their Senate office
 addresses. A face-to-face meeting (if you can manage it!) will have a better
 potential than a letter; a letter, more than a phone call; a phone call, more
 than an e-mail or FB/Twitter post.
