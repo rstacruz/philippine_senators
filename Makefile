@@ -1,4 +1,4 @@
-JSON_TO_YML = ruby -e 'require "json"; require "yaml"; puts YAML.dump(JSON.parse(STDIN.read))'
+JSON_TO_YML = ruby -ryaml -rjson -e 'puts YAML.dump(JSON.parse(STDIN.read))'
 
 senators.yml: senators.json
 	$(JSON_TO_YML) < $^ > $@
