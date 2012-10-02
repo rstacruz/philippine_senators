@@ -84,6 +84,8 @@ Sen. Pilar Juliana "Pia" Cayetano
 * Website: http://www.senatorpiacayetano.com
 * Website: http://www.mydailyrace.com
 * Facebook: https://www.facebook.com/pages/Pia-Cayetano/175169705842790
+* Twitter: https://twitter.com/piacayetano
+* Twitter: https://twitter.com/OfficialSenPia
 
 #### Senate office:
 
