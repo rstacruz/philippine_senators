@@ -159,7 +159,12 @@
       },
       "Senate Committee on Justice and Human Rights": {
         "Website": "http://www.senatejusticehumanrights.com",
-        "Address": "Rm. 304 Committee A, Senate of the Philippines, GSIS Compound, Pasay City",
+        "Address": [
+          "Rm. 304 Committee A",
+          "Senate of the Philippines",
+          "GSIS Compound",
+          "Pasay City"
+        ],
         "Telephone": "5526601 loc. 3318",
         "Telefax": "552-6888"
       }
