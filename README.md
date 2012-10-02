@@ -617,7 +617,7 @@ you raise are relevant to their constituents.
   - Address the senators, even if your letter is most likely going to be read by
   his/her staff.
 
-  - Address the senators by their full name (eg, *Sen. Vicence Sotto III*), not their
+  - Address the senators by their full name (eg, *Sen. Vicente Sotto III*), not their
   popular name (eg, *Tito Sotto*).
 
 * When you call:
