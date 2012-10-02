@@ -15,7 +15,7 @@ Sen. Edgardo J. Angara
 * Website: http://edangara.com/
 * Facebook: https://www.facebook.com/edangara2
 * Twitter: https://twitter.com/edangara
-* Email: edgardo_angara@hotmail.com
+* Email: angara.ed@gmail.com
 
 #### Senate office:
 
