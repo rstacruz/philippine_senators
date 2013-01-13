@@ -34,10 +34,6 @@ Joker Arroyo
 
 Sen. Joker Arroyo
 
-#### Online:
-
-* Email: office_sen_jokerarroyo@yahoo.com
-
 #### Senate office:
 
 * Address: Rm 511 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
