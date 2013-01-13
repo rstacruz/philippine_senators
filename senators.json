@@ -45,10 +45,12 @@
         ],
         "Trunk Lines": "(632) 552-6601 to 70 loc. 5567-68",
         "Direct Lines": [
-          "(632) 552-6730",
-          "(632) 812-1323"
+          "(632) 552-6730"
         ],
-        "Fax": "(632) 552-6790"
+        "Fax": [
+          "(632) 552-6790",
+          "(632) 812-1323"
+        ]
       },
       "Info": {
         "Official bio": "http://www.senate.gov.ph/senators/sen_bio/arroyo_bio.asp",

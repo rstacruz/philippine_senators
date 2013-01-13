@@ -38,7 +38,8 @@ Sen. Joker Arroyo
 
 * Address: Rm 511 5th Flr., GSIS Bldg., Financial Center, Roxas Blvd., Pasay City
 * Trunk Lines: (632) 552-6601 to 70 loc. 5567-68
-* Direct Lines: (632) 552-6730 / (632) 812-1323
+* Direct Lines: (632) 552-6730
+* Fax: (632) 812-1323
 * Fax: (632) 552-6790
 
 #### Info:
